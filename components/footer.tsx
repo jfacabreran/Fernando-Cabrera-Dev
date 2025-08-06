@@ -11,7 +11,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto">
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-center md:text-left">
-            <p className="text-gray-300">© 2024 Fernando Cabrera Nava. {t('footer.rights')}</p>
+            <p className="text-gray-300">© 2025 Fernando Cabrera Nava. {t('footer.rights')}</p>
           </div>
 
           <div className="flex items-center gap-6">

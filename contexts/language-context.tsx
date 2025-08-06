@@ -105,13 +105,11 @@ const translations = {
     'projects.rimac.title': 'Rimac Seguros',
     'projects.rimac.description': 'Web con ingreso mediante número de DNI y gestión de planes con descuentos en tiempo real para clientes nuevos.',
     'projects.limanexus.title': 'LimaNexus',
-    'projects.limanexus.description':
-      'Web para la empresa de administración de edificios multifamiliares y condominios interactivo con los clientes teniendo formularios para almacenamiento de datos como accesos directos al canal de ATC.',
+    'projects.limanexus.description': 'Web para la empresa de administración de edificios multifamiliares y condominios interactivo con los clientes teniendo formularios para almacenamiento de datos como accesos directos al canal de ATC.',
     'projects.somosbelcorp.title': 'Somosbelcorp',
-    'projects.somosbelcorp.description':
-      'Sistema de gestion para consultoras con pasarela de pago con diseño responsivo, permitio a las consultoras poder realizar su trabajo de forma remota en pandemia.',
+    'projects.somosbelcorp.description': 'Sistema de gestion para consultoras con pasarela de pago con diseño responsivo, permitio a las consultoras poder realizar su trabajo de forma remota en pandemia.',
     'projects.linceimportaciones.title': 'Lince Importaciones',
-    'projects.linceimportaciones.description': 'Sistema de monitoreo para dispositivos IoT con alertas automáticas y visualización de datos en tiempo real.',
+    'projects.linceimportaciones.description': 'Web creada para la venta de selladoras de diversos tipos, con un sistema de administracion de productos.',
 
     // Repositories
     'repositories.title': 'Repositorios GitHub',
