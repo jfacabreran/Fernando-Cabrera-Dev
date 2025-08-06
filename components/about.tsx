@@ -47,7 +47,7 @@ export default function About() {
               {/* Avatar with enhanced animations */}
               <div className="w-full h-full rounded-full bg-gradient-to-br from-cyber-purple via-cyber-blue to-cyber-lime p-1 shadow-neon-purple animate-pulse-slow group-hover:animate-spin transition-all duration-500">
                 <div className="w-full h-full rounded-full bg-black flex items-center justify-center text-6xl border-2 border-cyber-gray group-hover:scale-110 transition-transform duration-300 overflow-hidden">
-                  <Image src="/cusco.jpg" alt="Fernando Cabrera Nava" width={200} height={200} className="w-full h-full object-cover rounded-full" priority />
+                  <Image src="/profile.jpg" alt="Fernando Cabrera Nava" width={200} height={200} className="w-full h-full object-cover rounded-full" priority />
                 </div>
               </div>
 

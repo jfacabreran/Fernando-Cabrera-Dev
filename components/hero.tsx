@@ -23,8 +23,8 @@ export default function Hero() {
 
   const handleDownloadCV = () => {
     const link = document.createElement('a');
-    link.href = language === 'es' ? '/CvLuisMiguelAlfonzoRocaDevES.pdf' : '/CvLuisMiguelAlfonzoRocaDevIN.pdf';
-    link.download = language === 'es' ? '/CvLuisMiguelAlfonzoRocaDevES.pdf' : '/CvLuisMiguelAlfonzoRocaDevIN.pdf';
+    link.href = language === 'es' ? '/Fernando_Cabrera_Developer_2025.pdf' : '/Fernando_Cabrera_Developer_2025.pdf';
+    link.download = language === 'es' ? '/Fernando_Cabrera_Developer_2025.pdf' : '/Fernando_Cabrera_Developer_2025.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

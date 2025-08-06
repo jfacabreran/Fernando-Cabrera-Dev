@@ -23,8 +23,8 @@ export default function Navbar() {
 
   const handleDownloadCV = () => {
     const link = document.createElement('a')
-    link.href = language === "es" ? "/CvLuisMiguelAlfonzoRocaDevES.pdf" : "/CvLuisMiguelAlfonzoRocaDevIN.pdf"
-    link.download = language === "es" ? "/CvLuisMiguelAlfonzoRocaDevES.pdf" : "/CvLuisMiguelAlfonzoRocaDevIN.pdf"
+    link.href = language === "es" ? "/Fernando_Cabrera_Developer_2025.pdf" : "/Fernando_Cabrera_Developer_2025.pdf"
+    link.download = language === "es" ? "/Fernando_Cabrera_Developer_2025.pdf" : "/Fernando_Cabrera_Developer_2025.pdf"
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)
@@ -118,7 +118,7 @@ export default function Navbar() {
               size="sm"
               variant="ghost"
               className="text-cyber-blue hover:text-cyber-blue-glow hover:bg-cyber-blue/10 hover:scale-110 transition-all duration-300"
-              onClick={() => window.open("https://github.com/LuisRocca", "_blank")}
+              onClick={() => window.open("https://github.com/jfacabreran", "_blank")}
             >
               <Github className="h-4 w-4" />
             </Button>
@@ -127,7 +127,7 @@ export default function Navbar() {
               variant="ghost"
               className="text-cyber-blue hover:text-cyber-blue-glow hover:bg-cyber-blue/10 hover:scale-110 transition-all duration-300"
               onClick={() =>
-                window.open("https://www.linkedin.com/in/luis-miguel-alfonzo-roca-software-enginer/", "_blank")
+                window.open("https://www.linkedin.com/in/jfacabreran/", "_blank")
               }
             >
               <Linkedin className="h-4 w-4" />
@@ -197,7 +197,7 @@ export default function Navbar() {
                     size="sm"
                     variant="ghost"
                     className="text-cyber-blue hover:text-cyber-blue-glow"
-                    onClick={() => window.open("https://github.com/LuisRocca", "_blank")}
+                    onClick={() => window.open("https://github.com/jfacabreran", "_blank")}
                   >
                     <Github className="h-4 w-4" />
                   </Button>
@@ -206,7 +206,7 @@ export default function Navbar() {
                     variant="ghost"
                     className="text-cyber-blue hover:text-cyber-blue-glow"
                     onClick={() =>
-                      window.open("https://www.linkedin.com/in/luis-miguel-alfonzo-roca-software-enginer/", "_blank")
+                      window.open("https://www.linkedin.com/in/jfacabreran?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bog3nrv82Tma7fBHKDPMvNA%3D%3D", "_blank")
                     }
                   >
                     <Linkedin className="h-4 w-4" />

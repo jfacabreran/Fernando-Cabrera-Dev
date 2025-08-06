@@ -82,7 +82,7 @@ const translations = {
     'experience.period.seo': 'abril 2023 - octubre 2023',
     'experience.period.sunpower': 'febrero 2022 - febrero 2023',
 
-    'experience.location.qode': 'Distrito Capital, Perú',
+    'experience.location.qode': 'Lima, Perú',
     'experience.location.karggu': 'México (Remoto)',
     'experience.location.henry': 'Buenos Aires, Argentina (Remoto)',
     'experience.location.asofty': 'Perú',
@@ -100,14 +100,18 @@ const translations = {
     'projects.viewCode': 'Ver Código',
 
     // Project details
-    'projects.ecommerce.title': 'DDMRP Simulador',
-    'projects.ecommerce.description': 'Plataforma completa de DDMRP Simulador con panel de administración, gestión de inventario y pasarela de pagos.',
-    'projects.task.title': 'Sistema Clínico Ambulatorio',
-    'projects.task.description': 'Aplicación de gestión de tareas con colaboración en tiempo real, notificaciones push y sincronización offline.',
-    'projects.analytics.title': 'Analytics Dashboard',
-    'projects.analytics.description': 'Dashboard interactivo para análisis de datos con gráficos en tiempo real y reportes personalizables.',
-    'projects.iot.title': 'IoT Monitoring System',
-    'projects.iot.description': 'Sistema de monitoreo para dispositivos IoT con alertas automáticas y visualización de datos en tiempo real.',
+    'projects.picorp.title': 'Picorp App',
+    'projects.picorp.description': 'Plataforma completa para la cadena de grifos con panel de administración, gestión de canje de puntos y calculadora de puntos.',
+    'projects.rimac.title': 'Rimac Seguros',
+    'projects.rimac.description': 'Web con ingreso mediante número de DNI y gestión de planes con descuentos en tiempo real para clientes nuevos.',
+    'projects.limanexus.title': 'LimaNexus',
+    'projects.limanexus.description':
+      'Web para la empresa de administración de edificios multifamiliares y condominios interactivo con los clientes teniendo formularios para almacenamiento de datos como accesos directos al canal de ATC.',
+    'projects.somosbelcorp.title': 'Somosbelcorp',
+    'projects.somosbelcorp.description':
+      'Sistema de gestion para consultoras con pasarela de pago con diseño responsivo, permitio a las consultoras poder realizar su trabajo de forma remota en pandemia.',
+    'projects.linceimportaciones.title': 'Lince Importaciones',
+    'projects.linceimportaciones.description': 'Sistema de monitoreo para dispositivos IoT con alertas automáticas y visualización de datos en tiempo real.',
 
     // Repositories
     'repositories.title': 'Repositorios GitHub',

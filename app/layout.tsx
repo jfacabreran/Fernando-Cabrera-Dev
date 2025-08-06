@@ -4,8 +4,8 @@ import { GeistMono } from 'geist/font/mono';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Fernando Porfolio 2025',
-  description: 'este es un portafolio personalizado para destacar',
+  title: 'Fernando Portafolio 2025',
+  // description: 'este es un portafolio personalizado para destacar',
   generator: 'Fernando',
 };
 
