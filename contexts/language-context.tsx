@@ -244,7 +244,7 @@ const translations = {
     'about.certifications': 'Certifications & Skills',
     'about.certificationsDesc': "I have multiple certifications in technologies like React.js, Python. I'm passionate about continuous learning.",
     'about.english': 'English: A2 Level',
-    'about.skillsDesc': '',
+    'about.skillsDesc': ' ',
     'about.leadership': 'Leadership & Mentoring',
     'about.leadershipDesc':
       'Proven track record leading and mentoring cross-functional teams of up to 8 members in software development, ensuring on-time delivery and alignment with project-specific requirements.',
