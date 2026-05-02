@@ -48,7 +48,7 @@ const translations = {
     'about.certifications': 'Certificaciones & Habilidades',
     'about.certificationsDesc': 'Poseo múltiples certificaciones en tecnologías como React.js, Angular, Python, entre otros. Soy un apasionado del aprendizaje continuo.',
     'about.english': 'Inglés: Nivel A2',
-    // 'about.skillsDesc': ' ',
+    'about.skillsDesc': ' ',
     'about.leadership': 'Liderazgo & Mentoría',
     'about.leadershipDesc':
       'Experiencia liderando y ofreciendo mentorías a equipos multidisciplinarios de hasta 8 personas en el área del desarrollo de software, garantizando entregas en tiempos estimados y cumpliendo necesidades específicas de cada proyecto.',
@@ -244,7 +244,7 @@ const translations = {
     'about.certifications': 'Certifications & Skills',
     'about.certificationsDesc': "I have multiple certifications in technologies like React.js, Python. I'm passionate about continuous learning.",
     'about.english': 'English: A2 Level',
-    // 'about.skillsDesc': 'Experience in WordPress, technical SEO, web positioning and automations with tools like N8n.',
+    'about.skillsDesc': '',
     'about.leadership': 'Leadership & Mentoring',
     'about.leadershipDesc':
       'Proven track record leading and mentoring cross-functional teams of up to 8 members in software development, ensuring on-time delivery and alignment with project-specific requirements.',
