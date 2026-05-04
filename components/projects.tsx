@@ -14,8 +14,8 @@ export default function Projects() {
       title: t("projects.picorp.title"),
       description: t("projects.picorp.description"),
       technologies: ["Firebase", "JavaScript", "TypeScript","Svelte",],
-      demoUrl: "https://rimac-project-ten.vercel.app/",
-      codeUrl: "https://github.com/jfacabreran/rimac-project",
+      demoUrl: "https://app.picorp.pe/",
+      codeUrl: "#",
       image: "/picorp.png",
     },
     {
